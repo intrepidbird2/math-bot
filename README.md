@@ -1,1 +1,3 @@
-# math-bot
+# IntrepidBot Math
+
+Our coolest bot yet
